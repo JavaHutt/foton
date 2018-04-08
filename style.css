@@ -1,0 +1,22 @@
+.features__container {
+    width: 100%;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+}
+.features__text {
+    text-align: center;
+}
+.example {
+    display: flex;
+    justify-content: center;
+    margin-top: 35px;
+}
+.example__list {
+    margin-left: -20px;
+    list-style-type: none;
+    line-height: 120%;
+}
+.example__list_link {
+    text-transform: uppercase;
+}
